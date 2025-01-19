@@ -13,4 +13,22 @@ The system enables businesses to manage their inventory and product listings wit
 
 This e-commerce platform is a fully functional, secure, and scalable solution for running an online store with Django.
 
+*********************************************************************************************************************
+**upload the git bash following steps
+
+1. git init
+2. git add .
+3. git commit -m "commit message"
+4. git branch -m main
+5. git remote add origin <Github_link>
+6. git push -u origin main
+
+     *problem are occur then now*
+1. git checkout -b my-new-branch
+2. git add .
+3. git commit -m "nwe branch"
+4. git push -u origin my-new-branch
+
+
+
 created by... dipak_sarvade
